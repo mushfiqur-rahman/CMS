@@ -1,0 +1,9 @@
+/* CSS Document */
+
+
+input[type="text"], input[type="password"], textarea, select
+{
+	min-width: 600px;
+	padding: 5px;
+	border-radius: 3px;
+}
